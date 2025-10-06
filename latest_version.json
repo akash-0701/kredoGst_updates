@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.1",
-  "download_url": "https://github.com/akash-0701/Kredo-Updates/releases/download/v1.0.1/Kredo_GST_Setup.exe",
-  "sha256": "F5E94C8649C67C1F49965A81C64913850BBED016CE9EFF5172FFFBE3B03AC9FE",
+  "download_url": "https://github.com/akash-0701/kredoGst_updates/releases/download/v1.0.1/Kredo_GST_Setup.exe",
+  "sha256": "09B8E61CB63E889BE3F13EF457F8FF17257199BE3B863D5D47C5FD691DF4E827",
   "release_notes": "Initial release\n• GST data processing\n• GSTR1/GSTR2 support\n• Multi-company management",
   "release_date": "2025-01-15",
   "file_size": "~50 MB",
