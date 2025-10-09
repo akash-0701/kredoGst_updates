@@ -1,12 +1,13 @@
 {
   "latest_version": "1.0.4",
-  "download_url": "https://github.com/akash-0701/kredoGst_updates/releases/download/v1.0.3/Kredo_GST_Setup.exe",
-  "sha256": "9D6FD51049451834FAB085612FDCA280D80F3CD3D78E47B53F93845B3C4374F7",
+  "download_url": "https://github.com/akash-0701/kredoGst_updates/releases/download/v1.0.4/Kredo_GST_Setup.exe",
+  "sha256": "A1616FDC6C282162D7C6F8A3C792F86334C15DD099972429415249DF12C3DA2E ",
   "release_notes": "Version 1.0.2\n• Fixed auto-update system\n• Improved installation process\n• Enhanced stability\n• UI improvements",
   "release_date": "2025-01-08",
   "file_size": "~50 MB",
   "is_mandatory": false
 }
+
 
 
 
